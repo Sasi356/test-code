@@ -4,5 +4,5 @@ Components:
 2. Trie Data structure to maintain the indexing for the files in the website
 3. A double linked list and a hashmap is used to implement LRU cache to store recently visited websites
 4. To crawl through websites Dijikstras algorithm can be used to navigate through websites quickly
-5. 
+5. N0Sql database can be used to store the data since mostly the data used is unorganized.
 
